@@ -3,6 +3,8 @@ Heterogeneity-robust difference-in differences (DID) estimators Use did_multiple
 
 Estimation of heterogeneity-robust difference-in-differences (DID) estimators, with a binary, discrete, or continuous treatment or instrument, in designs with stayers, assuming that past treatments do not affect the current outcome Use did_multiplegt_stat With STATA 18
 
+https://www.youtube.com/watch?v=PwHXcG7Ju9g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
